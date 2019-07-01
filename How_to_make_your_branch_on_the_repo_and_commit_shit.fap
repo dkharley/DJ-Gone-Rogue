@@ -1,0 +1,90 @@
+So you wanna know how to git, right?
+Wanna make your own branch on the remote repository?
+Of fu##in course you do!
+Here's how:
+
+open git bash
+
+update your local master branch
+	git pull origin master
+
+then make your branch
+	git checkout -b yourNameOrIdentifier
+
+mine would be
+	git checkout -b saltymmccloud
+
+you should now be  in the branch you just made
+to check, enter
+	git branch
+
+your branch should be printed in green text
+
+now we want to make our branch on the remote repo
+
+this is done using this command
+	git push origin nameOfYourBranch
+
+mine would look like this
+	git push origin saltymccloud
+
+if this worked correctly,  you should see some text along with
+something like this
+	https://github.com/cptcaveman/DJ_Gone_Rogue
+	saltymccloud -> saltymccloud
+
+now, if  you checked the repo on github.com, you should see
+that your branch  now exists on the remote repo.
+
+All your pushes now go through your branch  on the  remote repo.
+
+All your pulls are done from your local master branch
+	git checkout master
+	git pull origin master
+
+Then
+	git checkout yourBranch
+	git merge master
+
+This will merge changes made to  the master build to your
+working local copy.
+
+When  you want to commit changes to the repo, you have  to make a 
+pull request. To do this, add, commit, and push changes from your local
+branch to your  remote branch
+	git add files
+	git commit -m "[makin a commit]"
+	git push origin yourBranch
+
+Then  go on github.com and make a pull request from your branch.
+Do this  by navigating to the main repo page for DJ_Gone_Rogue.
+Then click on the link for the different branches. It should be right above
+the 2nd DJ_Gone_Rogue link.
+Click on the link for your  branch
+Then Make Pull Request and confirm the request with any other additional
+info in the comments section of the request.
+
+Then, once we make sure  your commit won't cause conflicts, and everything
+looks like it will work properly, we can confirm the request and merge your
+changes with the master branch on the repo.
+
+Then to update your  local branch
+	git checkout master
+	git pull origin master
+	git checkout yourBranch
+	git merge master
+
+Then branch off of "your" local branch to make changes to code and shiet.
+annd then merge to "your" branch when you are done and do the  commit stuff.
+Rinse and repeat.
+
+Aaaaaaand doneskies!
+
+
+
+
+
+
+
+
+

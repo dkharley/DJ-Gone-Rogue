@@ -1,0 +1,224 @@
+<level>
+
+// Zero Row
+	<wall>
+		<id>1</id>
+		<x>51</x>
+		<z>49</z>
+	</wall>
+	<wall>
+		<id>1</id>
+		<x>50</x>
+		<z>49</z>
+	</wall>
+	<wall>
+		<id>1</id>
+		<x>49</x>
+		<z>49</z>
+	</wall>
+
+// First Row
+	<tile>
+		<id>1</id>
+		<health>4</health>
+		<x>51</x>
+		<z>50</z>
+	</tile>
+	<player>
+	    <id>0</id>
+	    <x>50</x>
+	    <z>50</z>
+	</player>
+	<tile>
+		<id>2</id>
+		<health>4</health>
+		<x>50</x>
+		<z>50</z>
+	</tile>
+	<tile>
+		<id>1</id>
+		<health>4</health>
+		<x>49</x>
+		<z>50</z>
+	</tile>
+	
+// Second Row
+	<tile>
+		<id>1</id>
+		<health>4</health>
+		<x>51</x>
+		<z>51</z>
+	</tile>
+	<tile>
+		<id>1</id>
+		<health>4</health>
+		<x>50</x>
+		<z>51</z>
+	</tile>
+	<tile>
+		<id>1</id>
+		<health>4</health>
+		<x>49</x>
+		<z>51</z>
+	</tile>
+
+// Third Row		
+	<tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>50</x>
+    	<z>52</z>
+    </tile>
+    
+// Fourth Row
+	<tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>52</x>
+    	<z>53</z>
+    </tile>
+    	<tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>51</x>
+    	<z>53</z>
+    </tile>
+    	<tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>50</x>
+    	<z>53</z>
+    </tile>
+    	<tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>49</x>
+    	<z>53</z>
+    </tile>
+
+// Fifth Row
+	<tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>52</x>
+    	<z>54</z>
+    </tile>
+    <enemy>
+    	<id>4</id>
+    	<x>50</x>
+    	<z>54</z>
+    </enemy>
+    <tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>50</x>
+    	<z>54</z>
+    </tile>
+    <tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>49</x>
+    	<z>54</z>
+    </tile>
+    
+// Sixth Row
+	<tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>54</x>
+    	<z>55</z>
+    </tile>
+    <tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>53</x>
+    	<z>55</z>
+    </tile>
+    <tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>52</x>
+    	<z>55</z>
+    </tile>
+    <tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>51</x>
+    	<z>55</z>
+    </tile>
+   	<tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>50</x>
+    	<z>55</z>
+    </tile>
+    
+// Seventh Row
+	<door>
+		<id>1</id>
+		<x>54</x>
+		<z>56</z>
+	</door>
+	<tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>54</x>
+    	<z>56</z>
+    </tile>
+	<tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>53</x>
+    	<z>56</z>
+    </tile>
+    <tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>52</x>
+    	<z>56</z>
+    </tile>
+    <tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>50</x>
+    	<z>56</z>
+    </tile>
+ 
+// Eighth Row
+	<tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>54</x>
+    	<z>57</z>
+    </tile>
+    <tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>53</x>
+    	<z>57</z>
+    </tile>
+    <tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>52</x>
+    	<z>57</z>
+    </tile>
+    <tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>51</x>
+    	<z>57</z>
+    </tile>
+    <tile>
+    	<id>1</id>
+    	<health>4</health>
+    	<x>50</x>
+    	<z>57</z>
+    </tile>
+	<enemy>
+		<id>5</id>
+		<x>50</x>
+		<z>57</z>
+	</enemy>      
+  
+</level>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSerializableLayer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SerializableLayer>
+    <SEQ_INSTRUMENT>0 SequenceTrackName TempoKeeper</SEQ_INSTRUMENT>
+    <TRACK_INSTRUMENT>N/A</TRACK_INSTRUMENT>
+    <NoteOnArray>
+      <long>0</long>
+      <long>96</long>
+      <long>192</long>
+      <long>288</long>
+      <long>384</long>
+      <long>480</long>
+      <long>576</long>
+      <long>672</long>
+      <long>768</long>
+      <long>864</long>
+      <long>960</long>
+      <long>1056</long>
+      <long>1152</long>
+      <long>1248</long>
+      <long>1344</long>
+      <long>1440</long>
+    </NoteOnArray>
+    <NoteOffArray>
+	<long>0</long>
+    </NoteOffArray >
+    <TRACK_END>2880</TRACK_END>
+    <PPQ>192</PPQ>
+    <BPM>0</BPM>
+  </SerializableLayer>
+  <SerializableLayer>
+    <SEQ_INSTRUMENT>0 SequenceTrackName Guitar</SEQ_INSTRUMENT>
+    <TRACK_INSTRUMENT>N/A</TRACK_INSTRUMENT>
+    <NoteOnArray>
+      <long>0</long>
+      <long>48</long>
+
+      <long>288</long>
+      <long>336</long>
+      <long>384</long>
+      <long>432</long>
+
+      <long>768</long>
+      <long>816</long>
+
+      <long>1056</long>
+      <long>1104</long>
+      <long>1152</long>
+      <long>1200</long>
+
+      <long>1536</long>
+      <long>1584</long>
+
+      <long>1824</long>
+      <long>1872</long>
+      <long>1920</long>
+      <long>1968</long>
+
+      <long>2304</long>
+      <long>2352</long>
+
+      <long>2592</long>
+      <long>2640</long>
+      <long>2688</long>
+      <long>2734</long>
+
+
+    </NoteOnArray>
+    <NoteOffArray>
+	<long>0</long>
+    </NoteOffArray >
+    <TRACK_END>2880</TRACK_END>
+    <PPQ>192</PPQ>
+    <BPM>0</BPM>
+  </SerializableLayer>
+  <SerializableLayer>
+    <SEQ_INSTRUMENT>0 SequenceTrackName Echo</SEQ_INSTRUMENT>
+    <TRACK_INSTRUMENT>N/A</TRACK_INSTRUMENT>
+    <NoteOnArray>
+      <long>0</long>
+      <long>192</long>
+      <long>384</long>
+
+      <long>640</long>
+      <long>768</long>
+      <long>816</long>
+      <long>912</long>
+      <long>1056</long>
+      <long>1152</long>
+
+
+      <long>1632</long>
+      <long>1680</long>
+      <long>1728</long>
+      <long>1776</long>
+
+      <long>1920</long>
+      <long>2016</long>
+      <long>2064</long>
+
+      <long>2208</long>
+      <long>2304</long>
+
+      <long>2400</long>
+      <long>2496</long>
+
+
+    </NoteOnArray>
+    <NoteOffArray>
+	<long>0</long>
+    </NoteOffArray >
+    <TRACK_END>2880</TRACK_END>
+    <PPQ>192</PPQ>
+    <BPM>0</BPM>
+  </SerializableLayer>
+  <SerializableLayer>
+    <SEQ_INSTRUMENT>0 SequenceTrackName Percussion</SEQ_INSTRUMENT>
+    <TRACK_INSTRUMENT>N/A</TRACK_INSTRUMENT>
+    <NoteOnArray>
+      <long>192</long>
+      <long>576</long>
+      <long>960</long>
+      <long>1344</long>
+      <long>1728</long>
+      <long>2112</long>
+      <long>2496</long>
+      <long>2880</long>
+    </NoteOnArray>
+    <NoteOffArray>
+     <long>0</long>
+    </NoteOffArray >
+    <TRACK_END>2880</TRACK_END>
+    <PPQ>192</PPQ>
+    <BPM>0</BPM>
+  </SerializableLayer>
+</ArrayOfSerializableLayer>

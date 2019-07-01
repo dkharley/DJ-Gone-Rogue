@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: DJGoneRogueGame
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 46, y: 0, z: 30}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd382ea936aef034b85e7dd0d8ff6570, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_DJ_LevelManager: {fileID: 100000, guid: ae653eada2ff078438d91b024f34d226, type: 2}
+  m_DJ_TileManager: {fileID: 100000, guid: 385f4af65e5ba5d4eaa088e2c1fc2110, type: 2}
+  m_DJ_BGManager: {fileID: 100004, guid: 271a24d53ca60c249b4af194dfc0acfc, type: 2}
+  m_DJ_PlayerManager: {fileID: 100000, guid: 7588ef94b76822843aae2506e952a800, type: 2}
+  m_DJ_EnemyManager: {fileID: 100000, guid: 4749c9145ffa78c44ad0f73223ca7d7f, type: 2}
+  m_DJ_ObstacleManager: {fileID: 100000, guid: a65d6c73d4154d94f977df10f421c3c7, type: 2}
+  m_DJ_CameraManager: {fileID: 100000, guid: c12f439224266de4093edd368a9d9649, type: 2}
+  m_DJ_EffectsManager: {fileID: 100000, guid: 1a08d7ce6516eb445a680c04a227946a, type: 2}
+  m_DJ_UIManager: {fileID: 100000, guid: 55803a52e34e36747a7545aff04d7f4c, type: 2}
+  m_DJ_LoadingManager: {fileID: 100000, guid: b5238496d3da59a44920a7f3aa21a4bf, type: 2}
+  m_DJ_BeatManager: {fileID: 100000, guid: f0e3f18f4fc2e6d4ba797a0813c51bba, type: 2}
+  songname: 
+  bpm: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

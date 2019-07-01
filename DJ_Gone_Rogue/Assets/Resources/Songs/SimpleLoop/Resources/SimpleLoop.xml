@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSerializableLayer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SerializableLayer>
+    <SEQ_INSTRUMENT>0 SequenceTrackName </SEQ_INSTRUMENT>
+    <TRACK_INSTRUMENT>N/A</TRACK_INSTRUMENT>
+    <NoteOnArray>
+      <long>0</long>
+      <long>192</long>
+      <long>384</long>
+      <long>576</long>
+    </NoteOnArray>
+    <NoteOffArray>
+      <long>48</long>
+      <long>240</long>
+      <long>432</long>
+      <long>624</long>
+    </NoteOffArray>
+    <TRACK_END>624</TRACK_END>
+    <PPQ>96</PPQ>
+    <BPM>0</BPM>
+  </SerializableLayer>
+  <SerializableLayer>
+    <SEQ_INSTRUMENT>0 SequenceTrackName </SEQ_INSTRUMENT>
+    <TRACK_INSTRUMENT>N/A</TRACK_INSTRUMENT>
+    <NoteOnArray>
+      <long>96</long>
+      <long>288</long>
+      <long>480</long>
+      <long>672</long>
+    </NoteOnArray>
+    <NoteOffArray>
+      <long>108</long>
+      <long>300</long>
+      <long>492</long>
+      <long>684</long>
+    </NoteOffArray>
+    <TRACK_END>684</TRACK_END>
+    <PPQ>96</PPQ>
+    <BPM>0</BPM>
+  </SerializableLayer>
+  <SerializableLayer>
+    <SEQ_INSTRUMENT>0 SequenceTrackName </SEQ_INSTRUMENT>
+    <TRACK_INSTRUMENT>N/A</TRACK_INSTRUMENT>
+    <NoteOnArray>
+      <long>48</long>
+      <long>144</long>
+      <long>240</long>
+      <long>336</long>
+      <long>432</long>
+      <long>528</long>
+      <long>624</long>
+      <long>720</long>
+    </NoteOnArray>
+    <NoteOffArray>
+      <long>96</long>
+      <long>192</long>
+      <long>288</long>
+      <long>384</long>
+      <long>480</long>
+      <long>576</long>
+      <long>672</long>
+      <long>768</long>
+    </NoteOffArray>
+    <TRACK_END>768</TRACK_END>
+    <PPQ>96</PPQ>
+    <BPM>0</BPM>
+  </SerializableLayer>
+  <SerializableLayer>
+    <SEQ_INSTRUMENT>0 SequenceTrackName </SEQ_INSTRUMENT>
+    <TRACK_INSTRUMENT>N/A</TRACK_INSTRUMENT>
+    <NoteOnArray>
+      <long>96</long>
+      <long>288</long>
+      <long>480</long>
+      <long>672</long>
+    </NoteOnArray>
+    <NoteOffArray>
+      <long>192</long>
+      <long>384</long>
+      <long>576</long>
+      <long>768</long>
+    </NoteOffArray>
+    <TRACK_END>768</TRACK_END>
+    <PPQ>96</PPQ>
+    <BPM>0</BPM>
+  </SerializableLayer>
+</ArrayOfSerializableLayer>

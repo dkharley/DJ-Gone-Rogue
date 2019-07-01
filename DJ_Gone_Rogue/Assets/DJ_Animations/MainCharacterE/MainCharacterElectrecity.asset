@@ -1,0 +1,646 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 529336600, guid: 289bab7cc27a12745b5df9b71d7b06c4, type: 3}
+  m_Name: MainCharacterElectrecity
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 4cf3b4429d90498469b474ffedd8f12f, type: 2}
+  uvs:
+  - serializedVersion: 2
+    x: .991943359
+    y: .1171875
+    width: .00659179688
+    height: .00366210938
+  - serializedVersion: 2
+    x: .962158203
+    y: .1171875
+    width: .0178222656
+    height: .017578125
+  - serializedVersion: 2
+    x: .0551757812
+    y: .962158203
+    width: .0422363281
+    height: .017578125
+  - serializedVersion: 2
+    x: .0551757812
+    y: .979980469
+    width: .0422363281
+    height: .017578125
+  - serializedVersion: 2
+    x: .09765625
+    y: .962158203
+    width: .0395507812
+    height: .0163574219
+  - serializedVersion: 2
+    x: .109375
+    y: .978759766
+    width: .0114746094
+    height: .013671875
+  - serializedVersion: 2
+    x: .980224609
+    y: .1171875
+    width: .0114746094
+    height: .013671875
+  - serializedVersion: 2
+    x: .09765625
+    y: .978759766
+    width: .0114746094
+    height: .013671875
+  - serializedVersion: 2
+    x: .980224609
+    y: .131103516
+    width: .00659179688
+    height: .00366210938
+  - serializedVersion: 2
+    x: .962158203
+    y: .137451172
+    width: .0354003906
+    height: .0539550781
+  - serializedVersion: 2
+    x: .962158203
+    y: .0627441406
+    width: .0354003906
+    height: .0541992188
+  - serializedVersion: 2
+    x: .962158203
+    y: 0
+    width: .0354003906
+    height: .0625
+  - serializedVersion: 2
+    x: .454101562
+    y: .412353516
+    width: .0686035156
+    height: .0686035156
+  - serializedVersion: 2
+    x: .522949219
+    y: .412353516
+    width: .0686035156
+    height: .0686035156
+  - serializedVersion: 2
+    x: .371582031
+    y: .745605469
+    width: .0686035156
+    height: .0686035156
+  - serializedVersion: 2
+    x: .0275878906
+    y: .962158203
+    width: .02734375
+    height: .02734375
+  - serializedVersion: 2
+    x: .371582031
+    y: .673583984
+    width: .0717773438
+    height: .0717773438
+  - serializedVersion: 2
+    x: .274902344
+    y: .922363281
+    width: .0717773438
+    height: .0717773438
+  - serializedVersion: 2
+    x: .274902344
+    y: .83984375
+    width: .0822753906
+    height: .0822753906
+  - serializedVersion: 2
+    x: .274902344
+    y: .638671875
+    width: .0712890625
+    height: .100341797
+  - serializedVersion: 2
+    x: .921386719
+    y: .274902344
+    width: .0712890625
+    height: .100341797
+  - serializedVersion: 2
+    x: .274902344
+    y: .739257812
+    width: .0712890625
+    height: .100341797
+  - serializedVersion: 2
+    x: 0
+    y: .962158203
+    width: .02734375
+    height: .02734375
+  - serializedVersion: 2
+    x: .371582031
+    y: .591064453
+    width: .0686035156
+    height: .0822753906
+  - serializedVersion: 2
+    x: .371582031
+    y: .494873047
+    width: .0686035156
+    height: .0959472656
+  - serializedVersion: 2
+    x: .454101562
+    y: .569335938
+    width: .041015625
+    height: .0959472656
+  - serializedVersion: 2
+    x: .274902344
+    y: .542480469
+    width: .0822753906
+    height: .0959472656
+  - serializedVersion: 2
+    x: .371582031
+    y: .412353516
+    width: .0822753906
+    height: .0822753906
+  - serializedVersion: 2
+    x: .371582031
+    y: .814453125
+    width: .0686035156
+    height: .0686035156
+  - serializedVersion: 2
+    x: .591796875
+    y: .412353516
+    width: .0549316406
+    height: .0686035156
+  - serializedVersion: 2
+    x: .454101562
+    y: .481201172
+    width: .0534667969
+    height: .087890625
+  - serializedVersion: 2
+    x: .274902344
+    y: .274902344
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .549804688
+    y: 0
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .687255859
+    y: 0
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .824707031
+    y: 0
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: 0
+    y: .274902344
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: 0
+    y: .412353516
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: 0
+    y: .549804688
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: 0
+    y: .137451172
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: 0
+    y: .687255859
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: 0
+    y: .824707031
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .137451172
+    y: .137451172
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .274902344
+    y: .137451172
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .412353516
+    y: .137451172
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .274902344
+    y: .412353516
+    width: .0964355469
+    height: .129882812
+  - serializedVersion: 2
+    x: .824707031
+    y: .274902344
+    width: .0964355469
+    height: .129882812
+  - serializedVersion: 2
+    x: .549804688
+    y: .137451172
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .687255859
+    y: .137451172
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .824707031
+    y: .137451172
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .137451172
+    y: .274902344
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .137451172
+    y: .412353516
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .137451172
+    y: .549804688
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .137451172
+    y: .687255859
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .137451172
+    y: .824707031
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .412353516
+    y: 0
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .412353516
+    y: .274902344
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .549804688
+    y: .274902344
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .687255859
+    y: .274902344
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: 0
+    y: 0
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .137451172
+    y: 0
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .274902344
+    y: 0
+    width: .137207031
+    height: .137207031
+  - serializedVersion: 2
+    x: .371582031
+    y: .883300781
+    width: .0686035156
+    height: .0686035156
+  textureGUIDs:
+  - e73b5744da8555549b71eb2f2b35f638
+  - b8db62322cd673e4fb534889f1eb8af0
+  - b81c6ae08bd09064cb3116c12b80bd58
+  - 27443def9ad9f0c4a85d210b9db7d729
+  - 4f8aa3dfc409ebf489719a8d69f220e2
+  - 9409c4dd3ae0cef4faa7ecbb25848160
+  - 7205ad93d5f2a4342bc81609352dce3d
+  - 3e5272ae577bc744c8ed5e71f100a63b
+  - b44ba2565c31d7940ba773bb48ab4ea7
+  - ea8c8cc5b8a5f454da12d485acff4352
+  - 6bf9c721573ed974c86d29562c9f965e
+  - e1398a0173d0218489a698184b5de8cd
+  - 650f39b8f79e36e48b605f46616c07a1
+  - 3a861e3e3ad23eb4e85a3546b987d58d
+  - ce04bd6b691699047b5d5d36ae72b88f
+  - bd7167b50296afa47ba928bd31109d1b
+  - e7be5f88177925a4f98637ee7370f3a5
+  - c5fad05194a83c9419d45ef2f798aa9f
+  - e0d47eec412122c42b83a596d2f8e9dc
+  - 63fa54e6555d93e4cb4fc41d8804249d
+  - cd263283de5f1dd4ea9548d404237b81
+  - 43b7bfbf7b3e7214fa18679ce1cc6fd0
+  - 648d627cb8140254ebc4ac0e6aca2dbf
+  - 84638c7364a907d4390ed71f5f2c7048
+  - 4db2f7864f128724490a43bebe47ff7d
+  - ee6e037c2d1d81d469489993176b3123
+  - 74c74e82b89dfa1448d4b0d9f8d2d5b2
+  - ab43cf8d6e3d1e34e820a63798e80d70
+  - 600f270d8b6b3f544bee7082efd314d9
+  - d51b2d9a9e8f4494db67980f0944773f
+  - c8f8ee45900fb894fb72b0fceaa4ca21
+  - 2c3a56f1af86e1643aaf275188045950
+  - 0b720552578667c4a84e2fe8d2649093
+  - a5777fa337249b0489870b048deb6411
+  - 6bee86041f97a3641964366e05ecb967
+  - ea6fd8f74990c994d8172298aff9b216
+  - 38b18a8890e095742b008133151e5b68
+  - b81dcd19b08ef6041891561c4f26bb65
+  - 37ff78792bef09d44868d511c0ebb94a
+  - fa9f194bc298be64d801144dc0c13076
+  - 6a6b3eabedb569e498be712ffe7c3478
+  - 4ca09ecbda5ef154e9be14dc3f3c8b0f
+  - a6a57f1d4a6ac024a955fcae11fc3605
+  - a043e22fb9bfce8409b8c4b701fdbc70
+  - cf6b234568363d0458841d578227fd39
+  - db7e71593ea2e1e4f924614fd4c61a7e
+  - d2a823b02a2332c45b5cb882798fc3fa
+  - ae89013210371b540a7d1e3f5b0b1c13
+  - f03e1762590f2f74387d650ec78c30ae
+  - 7a48ff938fa714c45aa30424381e29c5
+  - ccc9a7b4c5fb15d4dbd8a87885a96874
+  - 393e3765446f3264eaf4c146d341075d
+  - 696355f7e0ebc0e45b996fd526e9ac28
+  - 9d57006975107ad49b8d4e136af42208
+  - 9b25280bc442c7e41b061df05b06bc65
+  - 149310bb0c94cc543a14d26e89e5fc28
+  - 32fb2dbb633627c41b3cc1d2d3315180
+  - 245aa64e0ebbd5948bdf0c273c3757dc
+  - 5dcc9dbea12e7c1428007ac38c77513c
+  - 19da350ffbd5df0429d20fe40c25edde
+  - 9000aea32ac45994d84aa898b07c3664
+  - 4ab65a910f483b045907e09ac1d42bf2
+  textureSizes:
+  - {x: 48, y: 27}
+  - {x: 131, y: 128}
+  - {x: 308, y: 128}
+  - {x: 308, y: 128}
+  - {x: 289, y: 120}
+  - {x: 84, y: 100}
+  - {x: 84, y: 100}
+  - {x: 84, y: 100}
+  - {x: 48, y: 27}
+  - {x: 259, y: 394}
+  - {x: 259, y: 395}
+  - {x: 259, y: 456}
+  - {x: 500, y: 500}
+  - {x: 500, y: 500}
+  - {x: 500, y: 500}
+  - {x: 200, y: 200}
+  - {x: 525, y: 525}
+  - {x: 525, y: 525}
+  - {x: 600, y: 600}
+  - {x: 520, y: 733}
+  - {x: 520, y: 733}
+  - {x: 520, y: 733}
+  - {x: 200, y: 200}
+  - {x: 500, y: 600}
+  - {x: 500, y: 700}
+  - {x: 300, y: 700}
+  - {x: 600, y: 700}
+  - {x: 600, y: 600}
+  - {x: 500, y: 500}
+  - {x: 400, y: 500}
+  - {x: 390, y: 641}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 703, y: 947}
+  - {x: 703, y: 947}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 1000, y: 1000}
+  - {x: 500, y: 500}
+  defaultPivotOffsets:
+  - {x: -.5, y: .5}
+  - {x: 0, y: -.5}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: .5}
+  - {x: 0, y: .5}
+  - {x: 0, y: .5}
+  - {x: .5, y: .5}
+  - {x: 0, y: .5}
+  - {x: 0, y: .5}
+  - {x: 0, y: .5}
+  - {x: 0, y: -.5}
+  - {x: 0, y: -.5}
+  - {x: 0, y: -.5}
+  - {x: -.5, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: -.100000001}
+  - {x: 0, y: -.00999999978}
+  - {x: 0, y: -.00999999978}
+  - {x: 0, y: 0}
+  - {x: 0, y: -.100000001}
+  - {x: 0, y: -.100000001}
+  - {x: 0, y: -.100000001}
+  - {x: 0, y: -.100000001}
+  - {x: 0, y: -.100000001}
+  - {x: 0, y: -.100000001}
+  - {x: 0, y: -.100000001}
+  - {x: 0, y: -.100000001}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  textureNames:
+  - r_arm
+  - m_head
+  - m_elec3
+  - m_elec2
+  - m_elec
+  - m_body3
+  - m_body2
+  - m_body
+  - l_arm
+  - body_01
+  - body_02
+  - body_03
+  - head_01
+  - head_02
+  - head_03
+  - arm
+  - jump_glow
+  - jump_eyes
+  - jump_ball
+  - jump_transform_01
+  - jump_transform_02
+  - jump_transform_03
+  - Empty
+  - jump_fall_01
+  - jump_fall_02
+  - jump_fall_03
+  - jump_fall_04
+  - jump_fall_05
+  - jump_fall_06
+  - jump_fall_07
+  - jump_fall_08
+  - e_death8
+  - e_death4
+  - e_death1
+  - e_death7
+  - e_death10
+  - e_death5
+  - e_death11
+  - e_death13
+  - e_death9
+  - e_death3
+  - e_death12
+  - e_death2
+  - e_death6
+  - shock2
+  - shock1
+  - squash_09
+  - squash_04
+  - squash_06
+  - squash_10
+  - squash_08
+  - squash_08-01
+  - squash_02
+  - squash_01
+  - squash_07-1
+  - squash_05
+  - squash_07
+  - squash_09-01
+  - squash_04-1
+  - squash_03
+  - squash_04-1(1)
+  - winner_head
+  texturePaths:
+  - Assets/DJ_Textures/MainCharacterElectricity/r_arm.png
+  - Assets/DJ_Textures/MainCharacterElectricity/m_head.png
+  - Assets/DJ_Textures/MainCharacterElectricity/m_elec3.png
+  - Assets/DJ_Textures/MainCharacterElectricity/m_elec2.png
+  - Assets/DJ_Textures/MainCharacterElectricity/m_elec.png
+  - Assets/DJ_Textures/MainCharacterElectricity/m_body3.png
+  - Assets/DJ_Textures/MainCharacterElectricity/m_body2.png
+  - Assets/DJ_Textures/MainCharacterElectricity/m_body.png
+  - Assets/DJ_Textures/MainCharacterElectricity/l_arm.png
+  - Assets/DJ_Textures/MainCharacterElectricity/body_01.png
+  - Assets/DJ_Textures/MainCharacterElectricity/body_02.png
+  - Assets/DJ_Textures/MainCharacterElectricity/body_03.png
+  - Assets/DJ_Textures/MainCharacterElectricity/head_01.png
+  - Assets/DJ_Textures/MainCharacterElectricity/head_02.png
+  - Assets/DJ_Textures/MainCharacterElectricity/head_03.png
+  - Assets/DJ_Textures/MainCharacterElectricity/arm.png
+  - Assets/DJ_Textures/MainCharacterElectricity/jump_glow.png
+  - Assets/DJ_Textures/MainCharacterElectricity/jump_eyes.png
+  - Assets/DJ_Textures/MainCharacterElectricity/jump_ball.png
+  - Assets/DJ_Textures/MainCharacterElectricity/jump_transform_01.png
+  - Assets/DJ_Textures/MainCharacterElectricity/jump_transform_02.png
+  - Assets/DJ_Textures/MainCharacterElectricity/jump_transform_03.png
+  - Assets/DJ_Textures/MainCharacterElectricity/Empty.png
+  - Assets/DJ_Textures/MainCharacterElectricity/jump_fall_01.png
+  - Assets/DJ_Textures/MainCharacterElectricity/jump_fall_02.png
+  - Assets/DJ_Textures/MainCharacterElectricity/jump_fall_03.png
+  - Assets/DJ_Textures/MainCharacterElectricity/jump_fall_04.png
+  - Assets/DJ_Textures/MainCharacterElectricity/jump_fall_05.png
+  - Assets/DJ_Textures/MainCharacterElectricity/jump_fall_06.png
+  - Assets/DJ_Textures/MainCharacterElectricity/jump_fall_07.png
+  - Assets/DJ_Textures/MainCharacterElectricity/jump_fall_08.png
+  - Assets/DJ_Textures/MainCharacterElectricity/e_death8.png
+  - Assets/DJ_Textures/MainCharacterElectricity/e_death4.png
+  - Assets/DJ_Textures/MainCharacterElectricity/e_death1.png
+  - Assets/DJ_Textures/MainCharacterElectricity/e_death7.png
+  - Assets/DJ_Textures/MainCharacterElectricity/e_death10.png
+  - Assets/DJ_Textures/MainCharacterElectricity/e_death5.png
+  - Assets/DJ_Textures/MainCharacterElectricity/e_death11.png
+  - Assets/DJ_Textures/MainCharacterElectricity/e_death13.png
+  - Assets/DJ_Textures/MainCharacterElectricity/e_death9.png
+  - Assets/DJ_Textures/MainCharacterElectricity/e_death3.png
+  - Assets/DJ_Textures/MainCharacterElectricity/e_death12.png
+  - Assets/DJ_Textures/MainCharacterElectricity/e_death2.png
+  - Assets/DJ_Textures/MainCharacterElectricity/e_death6.png
+  - Assets/DJ_Textures/MainCharacterElectricity/shock2.png
+  - Assets/DJ_Textures/MainCharacterElectricity/shock1.png
+  - Assets/DJ_Textures/MainCharacterElectricity/squash_09.png
+  - Assets/DJ_Textures/MainCharacterElectricity/squash_04.png
+  - Assets/DJ_Textures/MainCharacterElectricity/squash_06.png
+  - Assets/DJ_Textures/MainCharacterElectricity/squash_10.png
+  - Assets/DJ_Textures/MainCharacterElectricity/squash_08.png
+  - Assets/DJ_Textures/MainCharacterElectricity/squash_08-01.png
+  - Assets/DJ_Textures/MainCharacterElectricity/squash_02.png
+  - Assets/DJ_Textures/MainCharacterElectricity/squash_01.png
+  - Assets/DJ_Textures/MainCharacterElectricity/squash_07-1.png
+  - Assets/DJ_Textures/MainCharacterElectricity/squash_05.png
+  - Assets/DJ_Textures/MainCharacterElectricity/squash_07.png
+  - Assets/DJ_Textures/MainCharacterElectricity/squash_09-01.png
+  - Assets/DJ_Textures/MainCharacterElectricity/squash_04-1.png
+  - Assets/DJ_Textures/MainCharacterElectricity/squash_03.png
+  - Assets/DJ_Textures/MainCharacterElectricity/squash_04-1(1).png
+  - Assets/DJ_Textures/MainCharacterElectricity/winner_head.png
+  lastBuildID: 20140607180537934
+  needsRebuilt: 0
+  dataVersion: 4
+  maxAtlasSize: 1024
+  padding: 1
+  forceSquare: 0

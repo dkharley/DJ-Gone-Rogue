@@ -1,0 +1,452 @@
+<level>
+
+//first row
+
+<tile>
+	<id>2</id>
+	<health>4</health>
+	<x>17</x>
+	<z>10</z>
+</tile>
+<tile>
+  <id>1</id>
+  <health>4</health>
+  <x>16</x>
+  <z>10</z>
+</tile>
+  <tile>
+    <id>2</id>
+    <health>4</health>
+    <x>15</x>
+    <z>10</z>
+  </tile>
+  <tile>
+    <id>1</id>
+    <health>4</health>
+    <x>14</x>
+    <z>10</z>
+  </tile>
+ <tile>
+    <id>2</id>
+    <health>4</health>
+    <x>13</x>
+    <z>10</z>
+  </tile>
+  
+
+<player>
+	<id>1</id>
+	<x>17</x>
+	<z>10</z>
+</player>
+
+//second row
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>17</x>
+	<z>11</z>
+</tile>
+  <tile>
+    <id>1</id>
+    <health>4</health>
+    <x>13</x>
+    <z>11</z>
+  </tile>
+
+//third row
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>16</x>
+	<z>12</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>17</x>
+	<z>12</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>18</x>
+	<z>12</z>
+</tile>
+  <tile>
+    <id>2</id>
+    <health>4</health>
+    <x>13</x>
+    <z>12</z>
+  </tile>
+
+//fourth row
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>13</x>
+	<z>13</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>14</x>
+	<z>13</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>15</x>
+	<z>13</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>16</x>
+	<z>13</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>17</x>
+	<z>13</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>18</x>
+	<z>13</z>
+</tile>
+
+//fifth row
+
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>13</x>
+	<z>14</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>16</x>
+	<z>14</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>17</x>
+	<z>14</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>18</x>
+	<z>14</z>
+</tile>
+
+//sixth row
+
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>10</x>
+	<z>15</z>
+</tile>
+<enemy>
+	<id>4</id>
+	<x>10</x>
+	<z>15</z>
+</enemy>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>11</x>
+	<z>15</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>12</x>
+	<z>15</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>13</x>
+	<z>15</z>
+</tile>
+<tile>
+	<id>2</id>
+	<health>4</health>
+	<x>17</x>
+	<z>15</z>
+</tile>
+<door>
+	<id>1</id>
+	<x>15</x>
+	<z>17</z>
+</door>
+
+//seventh row
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>10</x>
+	<z>16</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>11</x>
+	<z>16</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>12</x>
+	<z>16</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>13</x>
+	<z>16</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>17</x>
+	<z>16</z>
+</tile>
+<enemy>
+	<id>1</id>
+	<x>17</x>
+	<z>16</z>
+</enemy>
+
+//eight row
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>10</x>
+	<z>17</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>13</x>
+	<z>17</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>14</x>
+	<z>17</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>15</x>
+	<z>17</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>16</x>
+	<z>17</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>17</x>
+	<z>17</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>18</x>
+	<z>17</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>19</x>
+	<z>17</z>
+</tile>
+
+
+//row nine
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>10</x>
+	<z>18</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>13</x>
+	<z>18</z>
+</tile>
+<enemy>
+	<id>5</id>
+	<x>13</x>
+	<z>18</z>
+</enemy>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>14</x>
+	<z>18</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>18</x>
+	<z>18</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>19</x>
+	<z>18</z>
+</tile>
+<enemy>
+	<id>2</id>
+	<x>19</x>
+	<z>18</z>
+</enemy>
+
+//tenth row
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>10</x>
+	<z>19</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>14</x>
+	<z>19</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>17</x>
+	<z>19</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>18</x>
+	<z>19</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>19</x>
+	<z>19</z>
+</tile>
+
+//eleventh row
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>10</x>
+	<z>20</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>11</x>
+	<z>20</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>12</x>
+	<z>20</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>13</x>
+	<z>20</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>14</x>
+	<z>20</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>15</x>
+	<z>20</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>16</x>
+	<z>20</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>17</x>
+	<z>20</z>
+</tile>
+
+
+//12th row
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>13</x>
+	<z>21</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>14</x>
+	<z>21</z>
+</tile>
+// THIS SHOULD BE TURTLE
+<enemy>
+	<id>3</id>
+	<x>14</x>
+	<z>21</z>
+</enemy>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>15</x>
+	<z>21</z>
+</tile>
+
+//13th row
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>13</x>
+	<z>22</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>14</x>
+	<z>22</z>
+</tile>
+<tile>
+	<id>1</id>
+	<health>4</health>
+	<x>15</x>
+	<z>22</z>
+</tile>
+
+
+  
+</level>

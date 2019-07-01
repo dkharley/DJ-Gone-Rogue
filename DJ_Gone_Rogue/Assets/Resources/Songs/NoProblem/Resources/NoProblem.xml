@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSerializableLayer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SerializableLayer>
+    <SEQ_INSTRUMENT>0 SequenceTrackName Bass</SEQ_INSTRUMENT>
+    <TRACK_INSTRUMENT>N/A</TRACK_INSTRUMENT>
+    <NoteOnArray>
+      <long>0</long>
+      <long>96</long>
+      <long>192</long>
+      <long>288</long>
+      <long>384</long>
+      <long>480</long>
+      <long>576</long>
+      <long>672</long>
+      <long>768</long>
+      <long>864</long>
+      <long>960</long>
+      <long>1056</long>
+      <long>1152</long>
+      <long>1248</long>
+      <long>1344</long>
+      <long>1440</long>
+    </NoteOnArray>
+    <NoteOffArray>
+	<long>0</long>
+    </NoteOffArray >
+    <TRACK_END>1440</TRACK_END>
+    <PPQ>192</PPQ>
+    <BPM>0</BPM>
+  </SerializableLayer>
+  <SerializableLayer>
+    <SEQ_INSTRUMENT>0 SequenceTrackName Snare</SEQ_INSTRUMENT>
+    <TRACK_INSTRUMENT>N/A</TRACK_INSTRUMENT>
+    <NoteOnArray>
+      <long>0</long>
+      <long>96</long>
+
+      <long>288</long>
+      <long>384</long>
+      <long>480</long>
+
+
+      <long>672</long>
+      <long>768</long>
+      <long>864</long>
+
+      <long>1056</long>
+      <long>1152</long>
+      <long>1248</long>
+
+      <long>1440</long>
+
+    </NoteOnArray>
+    <NoteOffArray>
+	<long>0</long>
+    </NoteOffArray >
+    <TRACK_END>1440</TRACK_END>
+    <PPQ>192</PPQ>
+    <BPM>0</BPM>
+  </SerializableLayer>
+  <SerializableLayer>
+    <SEQ_INSTRUMENT>0 SequenceTrackName String</SEQ_INSTRUMENT>
+    <TRACK_INSTRUMENT>N/A</TRACK_INSTRUMENT>
+    <NoteOnArray>
+      <long>0</long>
+      <long>96</long>
+      <long>384</long>
+      <long>480</long>
+      <long>768</long>
+      <long>864</long>
+      <long>1152</long>
+      <long>1248</long>
+    </NoteOnArray>
+    <NoteOffArray>
+	<long>0</long>
+    </NoteOffArray >
+    <TRACK_END>1440</TRACK_END>
+    <PPQ>192</PPQ>
+    <BPM>0</BPM>
+  </SerializableLayer>
+  <SerializableLayer>
+    <SEQ_INSTRUMENT>0 SequenceTrackName HiHat</SEQ_INSTRUMENT>
+    <TRACK_INSTRUMENT>N/A</TRACK_INSTRUMENT>
+    <NoteOnArray>
+      <long>192</long>
+      <long>576</long>
+      <long>960</long>
+      <long>1344</long>
+    </NoteOnArray>
+    <NoteOffArray>
+	<long>0</long>
+    </NoteOffArray >
+    <TRACK_END>1440</TRACK_END>
+    <PPQ>192</PPQ>
+    <BPM>0</BPM>
+  </SerializableLayer>
+</ArrayOfSerializableLayer>
